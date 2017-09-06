@@ -2,7 +2,7 @@
 
 [![DOI](https://zenodo.org/badge/101886132.svg)](https://zenodo.org/badge/latestdoi/101886132)
 
-Cite the [article]()
+Cite the [article](https://bmcecol.biomedcentral.com/articles/10.1186/s12898-017-0141-0)
 
     @article{ehrmann_environmental_2017,
     	title = {Environmental drivers of \textit{{Ixodes} ricinus} abundance in forest fragments of rural {European} landscapes},
